@@ -1,2 +1,2 @@
-# practica-linux--dangelo-theone-
+# practica-linux-dangelo-theone
 github tp1
